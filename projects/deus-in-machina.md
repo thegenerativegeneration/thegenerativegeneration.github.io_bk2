@@ -5,9 +5,9 @@ layout: post
 preview: /assets/demos/one/preview.png
 ---
 
-**Installation: An AI avatar that takes on the role of Jesus Christ and interacts with people in a church.**
+**Deus in Machina was an art installation combining art, religion and AI. An AI avatar took on the role of Jesus Christ and interacted with people in a church within the confessional booth.**
 
-The installation ran from September to October 2024.
+**The installation ran from September to October 2024.**
 
 I built the system in my role as a master's assistant and student at the Lucerne University of Applied Sciences and Arts (HSLU). The project was a collaboration between the university and the Catholic community church Peterskapelle (Peter's Chapel) in Lucerne, Switzerland.
 
@@ -25,3 +25,8 @@ We also collected transripts of
 **Links**
 - [Deus in Machina at HSLU](https://sites.hslu.ch/immersive-realities/deus-in-machina/)
 - [Deus in Machina at Peterskapelle](https://www.kathluzern.ch/mein-engagement/deus-in-machina)
+
+**On the Media**
+- [Article by **The Guardian**](https://www.theguardian.com/technology/2024/nov/21/deus-in-machina-swiss-church-installs-ai-powered-jesus)
+- [Video by **Associated Press**](https://www.youtube.com/watch?v=_fyLDGpSeSo)
+- [Your Own Personal AI Jesus - Reference to Deus in Machina on the **Late Night Show With Stephen Colbert**](https://www.youtube.com/watch?v=SW4Q7GWkaDs)
