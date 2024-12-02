@@ -4,6 +4,19 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Generative Generation
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+This is Philipp Haslbauer's portfolio website.
+
+I am a researcher, software developer, and creator based in Lucerne, Switzerland.
+
+My interest lies in installations that react to people and show people something about themselves.
+
+
+
+## Contact
+
+You can contact me via
+* [email](mailto:phhaslbauer@yahoo.de)
+* [instagram](https://instagram.com/feili667)
+* [linkedin](https://www.linkedin.com/in/haslbauer/)

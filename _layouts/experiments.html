@@ -1,0 +1,21 @@
+---
+layout: default
+---
+Creative experiments, and projects to be.
+
+
+<section>
+
+  <div class="project-container">
+
+    {% for experiment in site.data.settings.experiments %}
+      <a href="{{ site.github.url }}/experiments/{{ experiment.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/experiments/{{ experiment.url }}" style="background-image: url({{ site.github.url }}/assets/img/experiments/{{ experiment.url }}/thumbnail.jpg)">
+          <div class="project-overlay">
+            <strong>{{ experiment.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
