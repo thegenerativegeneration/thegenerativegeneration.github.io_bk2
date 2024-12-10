@@ -49,7 +49,7 @@ The "zero convolution" is simply a convolution with all weights set to zero. Thi
 Before passing conditioning information through the copied layers, it is encoded by an additional encoder model.
 
 
-![ControlNet Architecture]({{site.url}}/assets/img/blog/controlling_diffusion/controlnet.png)
+![ControlNet Architecture](/assets/img/blog/controlling_diffusion/controlnet.png)
 
 - increases memory size (23%) and time (34%) for training
 - not lightweight, but not as heavy as cross-attention or concatenation on conditioning information
@@ -64,7 +64,7 @@ The biggest advantage of T2I over ControlNet I see is composability. You can use
 
 An interesting application of T2I-Adapter in the paper is sequential editing where a T2I-Adapter is applied to an image multiple times.
 
-![T2I-Adapter Architecture]({{site.url}}/assets/img/blog/controlling_diffusion/sequential_edit_t2i_adapter.png)
+![T2I-Adapter Architecture](/assets/img/blog/controlling_diffusion/sequential_edit_t2i_adapter.png)
 
 - lightweight (300MB)
 - composability
@@ -94,7 +94,7 @@ generating faces that look like a groundtruth face.
 The generated face was very similar to the ground truth face but not perfect. By itself, it is probably not enough. The authors of [DifFace](https://arxiv.org/abs/2212.06512) use this method combined with a learned face conditioning to improve the generation result.
 
 This is generated me:
-![Generated me]({{site.url}}/assets/img/blog/controlling_diffusion/target_philipp.png)
+![Generated me](/assets/img/blog/controlling_diffusion/target_philipp.png)
 
 - no increase in model size
 - no retraining
