@@ -3,16 +3,19 @@
 
 //------------------------------------------------
 // Set some colors as sass variables
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap')
 
-$accent-color: #BD5248
-$accent: #c99065
-$accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%)
-$selectionColor: lighten($accent, 30%)
 
-$textColor: #666
-$headlineColor: #333
-$bgcolor: #e5eaee
-$documentBackgroundColor: #fff
+$accent-color: #00ffff  // Neon cyan
+$accent: #e3fff4        // Base accent color (not explicitly used in CSS)
+$accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%) // Derived from $accent
+$selectionColor: lighten($accent, 30%) // Derived lighter accent
+
+$textColor: #00ff9f    // Bright green-cyan for body text
+$headlineColor: #00ffff // Headings in neon cyan
+$bgcolor: #000000      // Black, cyberpunk background
+$documentBackgroundColor: #000000 // Footer background
+$neon-glow: 0 0 5px $headlineColor, 0 0 10px $headlineColor, 0 0 20px $headlineColor
 
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'

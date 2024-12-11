@@ -1,0 +1,16 @@
+@keyframes glitch
+  0%
+    text-shadow: 0 0 5px $headlineColor, 0 0 10px $headlineColor, 0 0 20px $headlineColor
+    transform: none
+  20%
+    transform: skew(-5deg)
+  40%
+    transform: skew(5deg)
+    text-shadow: 2px 0px 5px $accent-light, -2px 0px 5px $headlineColor
+  60%
+    transform: none
+    text-shadow: 0 0 5px $headlineColor, 0 0 10px $headlineColor, 0 0 20px $headlineColor
+  80%
+    transform: skew(-2deg)
+  100%
+    transform: none

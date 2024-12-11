@@ -4,6 +4,13 @@
   padding: 30px
   +clearfix
   .project-unit
+    background-color: $bgcolor
+    border: 2px solid $headlineColor
+    box-shadow: 0 0 5px $headlineColor
+    transition: transform 0.3s, box-shadow 0.3s
+    &:hover
+      transform: scale(1.05)
+      box-shadow: 0 0 20px $headlineColor, inset 0 0 10px $accent
     cursor: pointer
     display: block
     width: 600px
