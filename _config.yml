@@ -7,7 +7,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Generative Generation"
+title:		   "Philipp Haslbauer"
 description: "Creativity & AI"
 author:      "Philipp Haslbauer"
 name: "Philipp Haslbauer"
