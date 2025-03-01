@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6
   letter-spacing: 4px
   text-shadow: $neon-glow
   position: relative
-  animation: glitch 20s infinite
+  animation: glitch 10s infinite
 
 .gigantic
   font-size: 80px
@@ -67,8 +67,8 @@ a
   transition: color 0.3s, text-shadow 0.3s
 
   &:hover
-    color: $headlineColor
-    text-shadow: 0 0 5px $headlineColor, 0 0 10px $headlineColor
+    color: $glitch-color
+    text-shadow: 0 0 5px $glitch-color, 0 0 10px $glitch-color
 
 
 
@@ -102,7 +102,7 @@ body
   line-height: 1.6
   -webkit-font-smoothing: none
   -moz-osx-font-smoothing: auto
-  text-shadow: 0 0 5px rgba(0, 255, 159, 0.7)
+  text-shadow: 0 0 2px $accent /*rgba(0, 255, 159, 0.7)*/
 
 a
   font-family: VT323
