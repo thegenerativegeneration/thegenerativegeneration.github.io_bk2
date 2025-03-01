@@ -5,22 +5,24 @@ layout: post
 preview: /assets/demos/one/preview.png
 ---
 
-**Deus in Machina was an art installation combining art, religion and AI. An AI avatar took on the role of Jesus Christ and interacted with people in a church within the confessional booth.**
+**Deus in Machina was an art installation combining art, religion, and AI. An AI avatar based on my face, voice, and mannerisms took on the role of Jesus Christ and interacted with people. The installation was placed within the confessional booth of a church. People interacted with their voice through the latticed opening between the booth’s two compartments.**
 
-**The installation ran from September to October 2024.**
+The project poses questions about religion in the face of artificial intelligence that increasingly surpasses humans’ in places. It presents an exploration of the self in a time when indistinguishable digital copies of ourselves can be created. It previews a time to come when we may talk more to the artificial than to the real humans and cautions against such a future.
+People from all walks of life were drawn together to discuss the recent rapid advance of technology and the role of faith in our lives.
 
-I built the system in my role as a master's assistant and student at the Lucerne University of Applied Sciences and Arts (HSLU). The project was a collaboration between the university and the Catholic community church Peterskapelle (Peter's Chapel) in Lucerne, Switzerland.
-
-This project spread around the world like fire and was featured in many news outlets.
-
-I chose the way the system interacts with people, basing my decisions on literature on pastoral psychology and my assumptions on how to keep a dialogue going. (The AI is isntructed to ask counter questions). My face, voice, and mannerisms were used to create the AI avatar. 
+The news of the project spread around the world like fire, being featured in hundreds of international news outlets, radio and TV stations, and on social media, instigating discourse. People visit and still keep visiting from all over Switzerland and the world to meet and talk about the exhibition. 
 
 We held a church service together with AI Jesus.
 
 ![AI Jesus](/assets/img/projects/deus-in-machina/ai_jesus_service.jpg)
-*AI Jesus speaking in the church service in the Peterskapelle*
+*AI Jesus speaking in the exhibition opening in the Peterskapelle*
 
-I wrote my master thesis on the system. Over the course of the thesis I conducted a user study to evaluate how people react to a spiritual AI. 
+The installation ran from September to October 2024.
+
+I built the system as a research assistant and student at the Lucerne University of Applied Sciences and Arts (HSLU).  My thesis “Prototype of a Conversational Agent for Spiritual Consultation“ formed the foundation. The project was a collaboration between the university and the Catholic community church Peterskapelle (Peter’s Chapel) in Lucerne, Switzerland.
+
+I chose the way the system interacts with people, basing my decisions on literature on pastoral psychology and personal assumptions on how to keep a conversation going. I desired to let even people who are unable to use computers interact with this intelligent installation, letting them talk freely with the latest of technologies.  
+
 
 **Links**
 - [Deus in Machina at HSLU](https://sites.hslu.ch/immersive-realities/deus-in-machina/)
